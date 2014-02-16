@@ -9,8 +9,11 @@ Go对于从事C/C++开发人员具有致命的诱惑，对你是不是我不清�
 
 参考Go官网资料：
 http://golang.org/doc/
+
 http://golang.org/ref/spec
+
 http://golang.org/doc/effective_go.html#formatting
+
 http://blog.golang.org
 
 
